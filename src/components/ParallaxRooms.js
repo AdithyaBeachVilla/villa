@@ -26,7 +26,7 @@ function ParallaxRooms() {
             <div>
               <h3 className="room_name">1 BHK Room</h3>
               <h3 className="price">
-              ₹3000 <span className="per_night">/Per day</span>
+              ₹5000 <span className="per_night">/Per day</span>
               </h3>
             </div>
             <table className="table">
@@ -70,7 +70,7 @@ function ParallaxRooms() {
             <div>
               <h3 className="room_name">2 BHK Villa</h3>
               <h3 className="price">
-              ₹3000<span className="per_night">/Per day</span>
+              ₹5000<span className="per_night">/Per day</span>
               </h3>
             </div>
             <table className="table">
@@ -125,7 +125,7 @@ function ParallaxRooms() {
                 </tr>
                 <tr>
                   <td className="td bed">Bed:</td>
-                  <td className="td">1 King Size, 1 Queen Size</td>
+                  <td className="td">2 King Size </td>
                 </tr>
                 <tr>
                   <td className="td services">Services:</td>
